@@ -11,3 +11,5 @@ all images should be located in the same location as Merge.java file
 
 ## Goal:
 Combine images with the same background into one.
+
+** For full information about this project look up ImageMergerReport.pdf **
