@@ -1,6 +1,7 @@
 # ImageMerger
 
-Build:
+## Build:
+
 : javac Merge
 : java Merge img1.jpg img2.jpg img3.jpg filename
 where filename is the expected output name (no need to type in the file
